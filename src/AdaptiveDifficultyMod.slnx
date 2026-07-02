@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AdaptiveDifficultyMod.Tests/AdaptiveDifficultyMod.Tests.csproj" Id="b3e3299a-0562-4303-9e29-6bd2008d4167" />
+  <Project Path="AdaptiveDifficultyMod/AdaptiveDifficultyMod.csproj" Id="c0bc14a4-feb9-4334-9b75-85bebc6c4ee2" />
+</Solution>
